@@ -1,5 +1,15 @@
 <html>
 	<body>
-		<iframe src="https://drive.google.com/file/d/1scse49Rrm9zs76GGcDILGz6mc8603cwx/preview" width="640" height="480" allowfullscreen="true"/>	
+		<iframe id="frame" src="https://drive.google.com/file/d/1scse49Rrm9zs76GGcDILGz6mc8603cwx/preview" width="640" height="480" allowfullscreen="true"/>	
+	
+	
+		<script type="text/javascript">
+			document.getElementById('frame').style.height = screen.availHeight + "px";
+			document.getElementById('frame').style.width = screen.availWidth + "px";
+		</script>
+		
+	
 	</body>
+	
+	
 </html>
