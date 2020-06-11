@@ -45,7 +45,8 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-
+  resume: test
+  
 topics:
   - name: Android
     web_url: https://github.com/topics/android
