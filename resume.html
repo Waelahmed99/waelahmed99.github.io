@@ -4,12 +4,18 @@
 	
 	
 		<script type="text/javascript">
-			document.getElementById('frame').style.height = screen.availHeight + "px";
-			document.getElementById('frame').style.width = screen.availWidth + "px";
-			 resize();
-		    window.onresize = function() {
-			resize();
-		    };
+			function resize()
+			    {
+				var heights = window.innerHeight;
+				var widths = window.innerWidth;
+				document.getElementById("frame").style.height = heights + "px";
+				document.getElementById("frame").style.width = widths + "px";
+			    }
+			    resize();
+			    window.onresize = function() {
+				resize();
+			    };
+
 		</script>
 		
 	
