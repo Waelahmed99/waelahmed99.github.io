@@ -6,6 +6,10 @@
 		<script type="text/javascript">
 			document.getElementById('frame').style.height = screen.availHeight + "px";
 			document.getElementById('frame').style.width = screen.availWidth + "px";
+			 resize();
+		    window.onresize = function() {
+			resize();
+		    };
 		</script>
 		
 	
