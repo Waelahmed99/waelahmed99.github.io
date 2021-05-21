@@ -49471,7 +49471,7 @@ var $async$ne=P.a3(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 h=t.bi
 s=7
-return P.a2(G.ajd(P.ah4("http","waelahmed99.pythonanywhere.com","/api/verdict",P.aK(["handle",a],h,t.z))),$async$ne)
+return P.a2(G.ajd(P.ah4("https","waelahmed99.pythonanywhere.com","/api/verdict",P.aK(["handle",a],h,t.z))),$async$ne)
 case 7:l=c
 g=l
 k=C.bf.cg(0,B.aj5(J.ar(U.ahr(g.e).c.a,"charset")).cg(0,g.x))
