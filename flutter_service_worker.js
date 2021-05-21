@@ -8,14 +8,14 @@ const RESOURCES = {
 "assets/assets/problems.txt": "f13d0f58cfa0b964bce0155f9b2608bd",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "d2015842978c1c1f44e89690e679ee68",
+"assets/NOTICES": "271316e8197d6f061bd02f7108b36518",
 "assets/AssetManifest.json": "ba475c3faaf7b633595067064e09f500",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"main.dart.js": "f3f9cca7ce130f54dfa243d9806a5331",
+"main.dart.js": "e71d6bf9d0b118b0c9c38393eef9cfb6",
 "manifest.json": "d8e3f9a73369682e88306434875329d0",
 "version.json": "7a2ae50030a32b31fa510e61ce2abdb7",
-"index.html": "fb1d20ae4362910b03d0dfce3a401391",
-"/": "fb1d20ae4362910b03d0dfce3a401391",
+"index.html": "74b9a2f239de2a6e1988470bac5d0cd1",
+"/": "74b9a2f239de2a6e1988470bac5d0cd1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
