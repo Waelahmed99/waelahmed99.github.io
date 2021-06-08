@@ -160,5 +160,117 @@
             "True",
             "False"
         ]
+    },
+    {
+        "question": "Good fusion is mandatory for good registartion",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Optical and radar images have the same characterstics",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "In Harris corner detector: If the Eigen values are large, it means that these images points represent a flat region",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Feature indexing means that creating feature vectors using the detected features",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Radar images are created using active sensing that uses sun's energy",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Edges and corners are classified as global features",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Corners are the most strong interest points",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "multitemporal registration means overlaying images taken at different times or view points",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "An expressive texture is represented at the point with high boundary intensity changes",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Corner detection approaches can be either brightness based or boundary based",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Keypoints are another name for interst points or local points in regions of interest",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "The apreture problem happens usually at edges and flat regions",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Outliers represent the true matches of interest points",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Features like points and corners are extracted from regions of interest within the image",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
     }
 ]
