@@ -11,11 +11,11 @@ const RESOURCES = {
 "assets/NOTICES": "b87e7ceb9de555cb3775cbfd1db2618c",
 "assets/AssetManifest.json": "f6b065ed930adc43750ff0bf58ffcc3b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"main.dart.js": "28d4d0ae3016658b5bd303eb74522ebc",
+"main.dart.js": "a01347f4db897eee92adc0b8f90b399f",
 "manifest.json": "8b6e0ac23d81dfcc69aa59dff5f6fe1e",
 "version.json": "b58938f6419722887e602686d47fb7e2",
-"index.html": "9f7e095b817d42f500ed5d4633412940",
-"/": "9f7e095b817d42f500ed5d4633412940",
+"index.html": "ef2dce6fda1b85100a20ba042854faf7",
+"/": "ef2dce6fda1b85100a20ba042854faf7",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
