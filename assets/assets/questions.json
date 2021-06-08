@@ -1,0 +1,164 @@
+[
+    {
+        "question": "The main components of computer vision systems are: scene, camera, and computer",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Text-based image retrieval is not suitable for annotating large amount of pictures",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Semantic gap is the gap between global and local features",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Recall is the ratio between no. of relevant retrieved images and the total no. of relevant images in the database",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Computer vision is concerning with the automatic interpretation of scenes",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Features like points and corners are extracted from the whole image",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Matching two images is done usually by checking the similarity between the two feature detection algorithms",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "CBIR stands for",
+        "correct_answer": "B",
+        "answers": [
+            "Case based information Reasoning",
+            "Content-Based Image Retrieval",
+            "Color based information Rendering",
+            "Content based information restoring"
+        ]
+    },
+    {
+        "question": "Global features are transformation invariant",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "GCH can be used to represent color layout within the image",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Blobs is another name for interest points or edges",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Features vectors with different range of values should be normalized before the matching process",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "In CBIR systems, it's easy to build an automatic process to extract features from images",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Edges and corners are classified as global features",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Color, texture and shape are examples of global features extracted from the whole image",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Color histogram does not include any spatial information about the image",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Relevance Feedback means using more than one type of querying",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Retrieval accuracy is the same as single percision",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "OCR is mainly about converting scanned documents to text",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Good feature representation methods should be robust against illumination changes and noise but not necessarily against geometric transformation",
+        "correct_answer": "B",
+        "answers": [
+            "True",
+            "False"
+        ]
+    }
+]
