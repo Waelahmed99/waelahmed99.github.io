@@ -515,7 +515,7 @@
     },
     {
         "question": "Similarity measurements in CBIR is done using GCH",
-        "correct_answer": "A",
+        "correct_answer": "B",
         "answers": [
             "True",
             "False"
