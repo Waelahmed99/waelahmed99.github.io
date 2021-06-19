@@ -1,0 +1,1082 @@
+[
+   {
+      "question": "Machines with minds is an example of acting rationally in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The study of the design of intelligence agents is an example of acting humanly in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The study of mental faculties through the use of computational models is an example of thinking rationally ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The study of the computations that make it possible to perceive, reason, and act is an example of thinking humanly in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The art of creating machines that perform functions that require intelligence when performed by people is an example of acting rationally in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Turing test is an example of acting rationally in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In a Turing test, a computer passes the test if a human interrogator ccan tell the written response come from a person or from a comupter ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The computer must have the NLP capability to perceive objects ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The computer must have knowledge representation capability to store what it knows or hears ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The congnitive modeling approach is an example of thinking humanly in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The laws of thought approach is an example of thinking rationally in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The rational agent approach is an example of acting humanly in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The rational agent approach is more general than the laws of thought approach ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "An agent is anything that can be viewwed as perceiving its environment through actuators and acting upo that environment through sensors ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The agent function is a concrete implementation, running within some physical system ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The agent program that maps any giver percept sequence to an action ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "A rational agent is one that does the right thing ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Roads and pedestrains are actuators in a taxi driver agent ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Crossword puzzle is an example of a fully observable environment ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Backgammon is an example of a deterministic environment ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Taxi driving is an example of a partially observable environment ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Part-picking robot is an example of single agent environment ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Taxi driving is an example of a deterministic environment ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Part-picking robot is an example of a an episodic environment ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Simple reflex agents are agents which in addition to state information have a kind of goal information which describes desirable situations ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "utility-based agents base their decision on classic axiomatic utility theory in order to act rationally ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Simple reflex agents have internal state which is used to keep track of past states of the world ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Agents with goals take future events into consideration ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Simple reflex agent are example of rule-based systems ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Goal based act by reasoning about which actions achieve the goal ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Utility based agent is used for measure of hapiness ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In a learning agent, Critic provides feedback on the agent's performance based on a fixed performance standard ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In a learning agent, the performance element introduces improvements in aperformance element ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In a learning agent, a problem generator suggests actions that will lead to new and informative experiences ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Problem formulation is the process of deciding what actions and states to consider, given a goal ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "There are 6 components to formulate any problem ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In a problem forumlation, a description of what each action does is the goal test step ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In the 8-puzzle problem, any state can be designated as the initial state ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In the 8-queens problem, any state can be designated as the initial state ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The traveling salesperson problem (TSP) is an example of a toy problem in AI ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In a tree search, successor nodes of a node mean its children ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In a tree search, predecessor nodes of a node mean its children ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The distance from root to leaf in a tree search is called level ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The path in a tree search is a sequence of nodes along the edges of a tree ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In the tree search algorithm, we use explored set to avoid cycle ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Explored set is used to remember every expanded node ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "A graph can have loops and self-loops ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In the graph, there is no predefined number of edges, and it depends on the graph ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Optimality means the aglorithm guaranteed to find a solution when there is one ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Space compleixty means how long does it take to find a solution ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The principal advantage of using a heuristic function is the reduction of the state space ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Best First Search uses an evaluation function f(n) and always chooses the next node to be that witrh best score ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "In greedy search, the idea is to expand the node with the best estimated cost to reach the goal ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The greedy best first search algorithm is a complete algorithm ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Best First Search is a special case of A* algorithm ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Uniform cost search is a special case of A* algorithm ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "A heuristic h(n) is admissible if for every node n, h(n) <= h*(n) ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "A heuristic h(n) is consistent if h(n) <= c(n,a,n') + h(n) ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The time and space complexity of A* is bm ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "Recursive best-first search (RBFS) is an exponential space algorithm ",
+      "correct_answer": "B",
+      "answers": [
+         "True",
+         "False"
+      ]
+   },
+   {
+      "question": "The exciting new effort to make computers think is called",
+      "answers": [
+         "thinking hmanly",
+         "acting humanly",
+         "thinking rationally",
+         "acting rationally"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The study of mental faculties through the use of computational models is called",
+      "answers": [
+         "thinking hmanly",
+         "acting humanly",
+         "thinking rationally",
+         "acting rationally"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The art of creating machines that perform functions that require intelligence when performed by people is called",
+      "answers": [
+         "thinking hmanly",
+         "acting humanly",
+         "thinking rationally",
+         "acting rationally"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The study of how to make computers do things at which, at the moment, people are better is called",
+      "answers": [
+         "thinking hmanly",
+         "acting humanly",
+         "thinking rationally",
+         "acting rationally"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The Turing test approach is an example of",
+      "answers": [
+         "thinking hmanly",
+         "acting humanly",
+         "thinking rationally",
+         "acting rationally"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The ____ is used to enable it to communicate successfully in English",
+      "answers": [
+         "NLP",
+         "robotics",
+         "machine learning",
+         "computer vision"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ capability is used in computer to perceive objects",
+      "answers": [
+         "NLP",
+         "robotics",
+         "machine learning",
+         "computer vision"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "The congnitive modeling approach is an example of",
+      "answers": [
+         "thinking hmanly",
+         "acting humanly",
+         "thinking rationally",
+         "acting rationally"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The law of thought approach is an example of",
+      "answers": [
+         "thinking hmanly",
+         "acting humanly",
+         "thinking rationally",
+         "acting rationally"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The agent can perceive its environment through",
+      "answers": [
+         "Actuators",
+         "Sensors",
+         "Actions",
+         "Receivers"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The sensors detect all aspects that are relevant to the choice of action in",
+      "answers": [
+         "Partially observable",
+         "semi observable",
+         "fully observable",
+         "non observable"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "A vacuum agent with only a local dirt sensor is an example of",
+      "answers": [
+         "Partially observable",
+         "semi observable",
+         "fully observable",
+         "non observable"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "A crossword puzzle is an example of a ____ agent",
+      "answers": [
+         "Semi",
+         "Multi",
+         "Double",
+         "Single"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "Taxi driving is an example of a",
+      "answers": [
+         "Partially observable",
+         "semi observable",
+         "fully observable",
+         "non observable"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "Part-picking robot is an example of",
+      "answers": [
+         "Partially observable",
+         "semi observable",
+         "fully observable",
+         "non observable"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ maps from percept histories to actions",
+      "answers": [
+         "agent program",
+         "agent",
+         "agent function",
+         "ratinoal agent"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ runs on the physical architecture to produce the function",
+      "answers": [
+         "agent program",
+         "agent",
+         "agent function",
+         "ratinoal agent"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ agents are based on condition-action rules",
+      "answers": [
+         "simple reflex",
+         "goal based",
+         "model based",
+         "utility based"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ agents are statelss devices which do not have memory of past world state",
+      "answers": [
+         "simple reflex",
+         "goal based",
+         "model based",
+         "utility based"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ agents take future events into considration",
+      "answers": [
+         "simple reflex",
+         "goal based",
+         "model based",
+         "utility based"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The ____ agents are called rule-based systems",
+      "answers": [
+         "simple reflex",
+         "goal based",
+         "model based",
+         "utility based"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ agents have a function to measure of happiness",
+      "answers": [
+         "simple reflex",
+         "goal based",
+         "model based",
+         "utility based"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "The ____ provides feedback on agent's performance based on fixed performance standard in learning agent approach",
+      "answers": [
+         "Learning element",
+         "perofrmance element",
+         "problem generator",
+         "critic"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "The ____ selecting actions based on percepts in learning agent approach",
+      "answers": [
+         "Learning element",
+         "perofrmance element",
+         "problem generator",
+         "critic"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The ____ suggests actions that will lead to new and informative experiences in learning agent approach",
+      "answers": [
+         "learning element",
+         "performance element",
+         "problem generator",
+         "critic"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The process of looking for a sequence of actions that reaches the goal is called",
+      "answers": [
+         "perceiving",
+         "searching",
+         "acting",
+         "sequencing"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "A description of what each action does in the problem formulation is called",
+      "answers": [
+         "initial state",
+         "actions",
+         "transition model",
+         "goal test"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The ____ determines whether a given state is a goal state in the problem formulation",
+      "answers": [
+         "initial state",
+         "actions",
+         "transition model",
+         "goal test"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "The initial state in 8-queens problem is ____ queens on the board",
+      "answers": [
+         "all",
+         "four",
+         "one",
+         "no"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "The goal test in 8-queens problem is ____ queens on the board without any attack",
+      "answers": [
+         "all",
+         "four",
+         "one",
+         "no"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ node has no parent in the tree search",
+      "answers": [
+         "successor",
+         "leaf",
+         "root",
+         "predecessor"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The distance from root to leaf in the tree search is called",
+      "answers": [
+         "branch",
+         "height",
+         "level",
+         "path"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The sequence of nodes along the edges of a tree is called",
+      "answers": [
+         "branch",
+         "height",
+         "level",
+         "path"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "A tree has ____ edges",
+      "answers": [
+         "n",
+         "n + 1",
+         "n - 1",
+         "zero"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The explored set is used in a",
+      "answers": [
+         "tree",
+         "graph",
+         "exploration",
+         "eploitation"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "A ____ can have loops and self-loops",
+      "answers": [
+         "tree",
+         "queue",
+         "linked list",
+         "graph"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "The ____ in algorithm means the algorithm guaranteed to find a solution when ther is one",
+      "answers": [
+         "Optimality",
+         "Completeness",
+         "Validation",
+         "Verification"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "Breadth first search (BFS) is an example of a ____ search",
+      "answers": [
+         "guided",
+         "informed",
+         "blind",
+         "goal based"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The frontier in breadh first search uses a",
+      "answers": [
+         "queue",
+         "stack",
+         "linked list",
+         "priority queue"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "Breadth first search (BFS) is called ___ path first",
+      "answers": [
+         "longest",
+         "cheapest",
+         "deepest",
+         "shortest"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "Depth first search (DFS) is an example of a ____ search",
+      "answers": [
+         "guided",
+         "informed",
+         "blind",
+         "goal based"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The frontier in the depth first search uses a",
+      "answers": [
+         "queue",
+         "stack",
+         "linked list",
+         "priority queue"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "Depth first search (DFS) is called ____ path first",
+      "answers": [
+         "longest",
+         "cheapest",
+         "shallowest",
+         "shortest"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "Uniformed cost search (UCS) is an example of a ____ search",
+      "answers": [
+         "guided",
+         "informed",
+         "blind",
+         "goal based"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The frontier in the uniform cost search uses a",
+      "answers": [
+         "queue",
+         "stack",
+         "linked list",
+         "priority queue"
+      ],
+      "correct_answer": "D"
+   },
+   {
+      "question": "Uniform cost search (UCS) is called ____ path first",
+      "answers": [
+         "longest",
+         "cheapest",
+         "shallowest",
+         "shortest"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The time complexity in the breadth first search is",
+      "answers": [
+         "linear",
+         "quadratic",
+         "exponential",
+         "logarithmic"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The space compleixity in the breadh first search is",
+      "answers": [
+         "linear",
+         "quadratic",
+         "exponential",
+         "logarithmic"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The time complexity in the depth first search is",
+      "answers": [
+         "linear",
+         "quadratic",
+         "exponential",
+         "logarithmic"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "The space compleixity in the depth first search is",
+      "answers": [
+         "linear",
+         "quadratic",
+         "exponential",
+         "logarithmic"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ search can be viewed as a special case of depth-limited search with (l = infinity)",
+      "answers": [
+         "breadth first",
+         "depth-first",
+         "uniform cost",
+         "A*"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "The space complexity in the depth-limited search is",
+      "answers": [
+         "linear",
+         "quadratic",
+         "exponential",
+         "logarithmic"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "The ____ search combines the benefits of depth-first and breadth-first search",
+      "answers": [
+         "Iterative deepening",
+         "bi-drectional",
+         "greedy best first",
+         "A*"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "A* search is an example of a ____ search",
+      "answers": [
+         "unguided",
+         "informed",
+         "blind",
+         "goal based"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "Greedy best first is an example of a ____ search",
+      "answers": [
+         "unguided",
+         "informed",
+         "blind",
+         "goal based"
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "Uniform cost search is a special case of A* search if",
+      "answers": [
+         "g(n) = 0",
+         "f(n) = 0",
+         "h(n) = 0",
+         "f(n) = h(n)"
+      ],
+      "correct_answer": "C"
+   },
+   {
+      "question": "Best first search is a special case of A* search if",
+      "answers": [
+         "g(n) = 0",
+         "f(n) = 0",
+         "h(n) = 0",
+         "f(n) = g(n)"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "A heuristic h(n) is admissible if for",
+      "answers": [
+         "h(n) <= h*(n)",
+         "h(n) = h*(n)",
+         "h(n) > h*(n)",
+         "h(n) >= h*(n)"
+      ],
+      "correct_answer": "A"
+   },
+   {
+      "question": "A heuristic is consistent if h(n) ____ c(n,a,n') + h(n')",
+      "answers": [
+         ">",
+         "<=",
+         "=",
+         ">="
+      ],
+      "correct_answer": "B"
+   },
+   {
+      "question": "Recursive best-first search (RBFS) is a ____ space algorithm",
+      "answers": [
+         "exponential",
+         "quadratic",
+         "linear",
+         "logarithmic"
+      ],
+      "correct_answer": "C"
+   }
+]

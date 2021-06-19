@@ -1,6 +1,6 @@
 [
     {
-        "question": "The main components of computer vision systems are: scene, camera, and computer",
+        "question": "NLP is a field of computer science",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "question": "Text-based image retrieval is not suitable for annotating large amount of pictures",
+        "question": "Machine translation is an application of NLP",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -16,7 +16,15 @@
         ]
     },
     {
-        "question": "Semantic gap is the gap between global and local features",
+        "question": "Arabic letters might have up to four different forms (beginning, middle, end, and isolated) depending on their position in the word",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Arabic language linguists classify words in Arabic into two main categories nons and particles",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -24,7 +32,7 @@
         ]
     },
     {
-        "question": "Recall is the ratio between no. of relevant retrieved images and the total no. of relevant images in the database",
+        "question": "Arabic may use stretch character forms to add emphasis to the writtin word",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -32,7 +40,7 @@
         ]
     },
     {
-        "question": "Computer vision is concerning with the automatic interpretation of scenes",
+        "question": "Similar to accent marks in European languages, Arabic has diactrical signs",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -40,7 +48,15 @@
         ]
     },
     {
-        "question": "Features like points and corners are extracted from the whole image",
+        "question": "The pronounciation of the character and hence the meaning of the word containg that character differs according to the diacritic imposed over it",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Classical Arabic is casually utilized daiy by Arabs",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -48,7 +64,7 @@
         ]
     },
     {
-        "question": "Matching two images is done usually by checking the similarity between the two feature detection algorithms",
+        "question": "Arabic has capital letters",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -56,17 +72,7 @@
         ]
     },
     {
-        "question": "CBIR stands for",
-        "correct_answer": "B",
-        "answers": [
-            "Case based information Reasoning",
-            "Content-Based Image Retrieval",
-            "Color based information Rendering",
-            "Content based information restoring"
-        ]
-    },
-    {
-        "question": "Global features are transformation invariant",
+        "question": "The letters and numbers in the Arabic languages are written from left to right",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -74,7 +80,31 @@
         ]
     },
     {
-        "question": "GCH can be used to represent color layout within the image",
+        "question": "Arabic is highly derivational",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Morphologic challenge in Arabic language is that we can compose a word to another by a conjunction of two words ",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Accuracy is the propotion of true results among the total number of cases examined",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "The purpose of the inverse document frequency is to increase the weight of terms with high collection frequency",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -82,7 +112,31 @@
         ]
     },
     {
-        "question": "Blobs is another name for interest points or edges",
+        "question": "Arabic language is very flexible regarding the word order",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "The dots and their positions are important in distinguishing between different characters",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "The Arabic language accepts the principle of abbreviation",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Overfitting occurs when the prediction model selected by the algorithm is too simplistic",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -90,23 +144,7 @@
         ]
     },
     {
-        "question": "Features vectors with different range of values should be normalized before the matching process",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "In CBIR systems, it's easy to build an automatic process to extract features from images",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Edges and corners are classified as global features",
+        "question": "If the sample is an equally divided, it has entropy of zero",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -114,7 +152,7 @@
         ]
     },
     {
-        "question": "Color, texture and shape are examples of global features extracted from the whole image",
+        "question": "Text pre-processing is performed to improve the quality of classification task by excluding worthless pieces of information or importing useful ones",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -122,7 +160,7 @@
         ]
     },
     {
-        "question": "Color histogram does not include any spatial information about the image",
+        "question": "Sakhr OCR is a successful OCR system for printing Arabic scripts",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -130,7 +168,7 @@
         ]
     },
     {
-        "question": "Relevance Feedback means using more than one type of querying",
+        "question": "Decision trees cannot handle both categorical and numerical data",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -138,7 +176,7 @@
         ]
     },
     {
-        "question": "Retrieval accuracy is the same as single percision",
+        "question": "The ID3 algorithm is run recursively on the non-leaf branches until all data is classified",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -146,7 +184,7 @@
         ]
     },
     {
-        "question": "OCR is mainly about converting scanned documents to text",
+        "question": "Speech recognition is very useful for people with disabilitics",
         "correct_answer": "A",
         "answers": [
             "True",
@@ -154,7 +192,7 @@
         ]
     },
     {
-        "question": "Good feature representation methods should be robust against illumination changes and noise but not necessarily against geometric transformation",
+        "question": "Arabic nominal sentence begins with a verb, and they have at least a verb and a subject",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -162,7 +200,7 @@
         ]
     },
     {
-        "question": "Good fusion is mandatory for good registartion",
+        "question": "True Negatives are those examples classified by the classifier as belonging to the class while they are actually not",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -170,7 +208,7 @@
         ]
     },
     {
-        "question": "Optical and radar images have the same characterstics",
+        "question": "Stop words provide a valuable information about the category of document",
         "correct_answer": "B",
         "answers": [
             "True",
@@ -178,707 +216,93 @@
         ]
     },
     {
-        "question": "In Harris corner detector: If the Eigen values are large, it means that these images points represent a flat region",
+        "question": "The tf-idf weight is highest when a term t occurs many times within a small number of documents",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "In typical cross-validation the training and validation sets must cross-over in successive rounds such that each data pint has a chance of being validated against",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Decision tree can be used for classification tasks",
+        "correct_answer": "A",
+        "answers": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What are the main types of Arabic",
+        "correct_answer": "A",
+        "answers": [
+            "Classical Arabic, Dialect Arabic and Modern Standard Arabic",
+            "Classical Arabic, Universal Arabic and Modern Standard Arabic",
+            "Classical Arabic, Dialect Arabic and Modern Universal Arabic"
+        ]
+    },
+    {
+        "question": "What is Machine Translation",
+        "correct_answer": "A",
+        "answers": [
+            "Converts one human language to another",
+            "Converts human language to machine language",
+            "Converts machine language to human language"
+        ]
+    },
+    {
+        "question": "Which of the following is an example of Spell-checking application",
         "correct_answer": "B",
         "answers": [
-            "True",
-            "False"
+            "OK Google",
+            "Grammarly app",
+            "Video games",
+            "Siri"
         ]
     },
     {
-        "question": "Feature indexing means that creating feature vectors using the detected features",
+        "question": "Google Translate is one of the",
         "correct_answer": "A",
         "answers": [
-            "True",
-            "False"
+            "Machine translation",
+            "Information Retrieval",
+            "Information Extraction"
         ]
     },
     {
-        "question": "Radar images are created using active sensing that uses sun's energy",
+        "question": "The Letter 'د' (Dall) has ___ forms",
         "correct_answer": "B",
         "answers": [
-            "True",
-            "False"
+            "1",
+            "2",
+            "3",
+            "4"
         ]
     },
     {
-        "question": "Edges and corners are classified as global features",
-        "correct_answer": "B",
+        "question": "What are the 3 long vowels in Arabic alphabet",
+        "correct_answer": "C",
         "answers": [
-            "True",
-            "False"
+            "Taa, Hamzah, Sukoon",
+            "Fatha, Kasra, Damma",
+            "Alif, Waaw, Yaa"
         ]
     },
     {
-        "question": "Corners are the most strong interest points",
-        "correct_answer": "A",
+        "question": "How many letters are there in the Arabic alphabet",
+        "correct_answer": "C",
         "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "multitemporal registration means overlaying images taken at different times or view points",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "An expressive texture is represented at the point with high boundary intensity changes",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Corner detection approaches can be either brightness based or boundary based",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Keypoints are another name for interst points or local points in regions of interest",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "The apreture problem happens usually at edges and flat regions",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Outliers represent the true matches of interest points",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Features like points and corners are extracted from regions of interest within the image",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Human perception is one problem of text-based image and video retrieval",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Aircraft and satellites are major platforms for the sensors",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "The use of simple features like color, shape, or texture is usually enough for good image matching",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Image registration consists of computing the geometric transformation between two data sets",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Good interest point detectors should detect most of the inliers set of points",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "In RS, the sensed images is transformed over the reference one according to a mapping model",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "CBIR systems support search by either an example or a sketch or both of them together with text search",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Nearst neighbor and linear or cubic interpolation are example of feature extraction methods",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Outliers represent the true matches between two sets of detected points",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "The similarity check between two feature descriptors can be done using Manhattan distance as a metric",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Control points is another name for interest keypoints",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "When both Eigen values are small and E is almost constant in all directions the point represents an edge",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Satellite imagery includes panchromatic and multispectral images",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Image transformation means removing some feature sor components of the image",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "SIFT algorithm is robust against illumination changes but not against noise",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Haar Waveelets decomposition can be used to extract texture feature from images",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "NNS Algorithm is used to match two keypoint descriptors",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Rotation and view direction change are important problems of registering multisensory data",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Image fusion is required for obtaining good image registartion",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Multimodal registartion includes overlaying images taken from different view points",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Matching two images means determining the correspondence between descriptors in two views",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Good detectors should detect most of the true interest points",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Robot navigation and moving object tracking are examples of local features applications",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Color-layout means how much the gray level of each pixel",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Radar and optical images are captured using the same sensors",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Before and after comparison is done using human experts",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "False matching points are called outliers of artifacts",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "IMatch is an example of a CBIR system that uses color and texture matching",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Noise graphs are used to measure how accurate the retrieval process",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "CBIR overcomes the limits of keywords approach",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Similarity measurements in CBIR is done using GCH",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Edge: significant change in all directions",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Three matching points at least are required to register two images",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Spatial location and pixel intensity are example of local features",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "True matching points in remote sensing are called tie points",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Global color histogram is used to represent hte shape feature in within an image",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Interest point detector should be well localized",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "In flat region: no change in all direction",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Haar Wavelets is used to represent texture features within images",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "CBIR is used to build an automatic process",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Radar sensors need sun's energy during the sensing process",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Applications of computer vision include health, safety, and security",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Corner point can be recognized in a window",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "SIFT stands for scale invvariant feature transform",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "VIdeo retrieval systems are built based on the contents of the video rather than the text annotation",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "corner: no change along the edge direction",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Relevant images means images in the same class or group",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Color and texture are examples of local features",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Applications of CBIR include face recognition and PACSs",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Multimodal registartion includes on multisensory data or images",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Recall is the ratio between non-relevant images to the total number of retrieved images",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "QBIC is an example of CBIR build based on color andd shape features",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Radar sensors provide illumination",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "CBIR systems easily extract features from images",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Multispectral images are colored image with very high resolution",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Active sensing: emitted and reflected radiation is detected and measured",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Multitemporal means registering images at different times",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Optical sensors see through clouds",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "linear or cubic interpolation is used to estimate the mapping model in image registeration ",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Precision and recall is used to measure the performance of CBIR Systems",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "A good fusion is mandatory for a good registration",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Passive sensing sun`s energy that is reflected as thermal infrared wavelength",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Edge, corner and blobs are examples of global features",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Semantic gab is the problem of finding the meaning between high and low level features",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Illumination  change is one important factor when evaluating the feature detection performance",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Aircrafs and satellites are the major platforms of sensors",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Radar images are examples of passive sensing",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Surf detector is inspired from SIFT detector",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Resampling and transformation is the last step in image registeration",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "OpenCV: a library of programming functions mainly aimed at real-time computer vision",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Multitemporal registration means registering images taken from different views",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Optical images are examples of active sensing process",
-        "correct_answer": "B",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Huge number of pictures everywhere in one reason for using CBIR system",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Random browsing is one possibility in CBIR Systems",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "image fusion is the process of combining relevant information from two images into a single image",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
-        ]
-    },
-    {
-        "question": "Remote sensing is acquisition of information about an object without physical contact",
-        "correct_answer": "A",
-        "answers": [
-            "True",
-            "False"
+            "24",
+            "26",
+            "28",
+            "30"
         ]
     }
 ]
